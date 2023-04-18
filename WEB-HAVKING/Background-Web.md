@@ -1,28 +1,33 @@
-웹:
+# 웹:
+
 인터넷을 기반으로 구현된 서비스 중 HTTP(S) 를 이용하여 정보를 공유하는 서비스.
 
 정보를 제공하는 주체 : Web Server
 정보를 받는 이용자 : Web Client
 
-웹 리소스:
+# 웹 리소스:
+
 웹에 갖춰진 정보 자산.
 모든 웹 리소스는 고유의 Uniform Resource Indicator (URI)이 있음.
 
 웹을 구성하는 대표적인 웹 리소스
 
-Hyper Text Markup Language (HTML):
+# Hyper Text Markup Language (HTML):
+
 태그와 속성을 통한 구조화된 문서 작성.
 
-Cascading Style Sheets (CSS):
+# Cascading Style Sheets (CSS):
+
 글자의 색깔이나, 모양, 배경 색상, 이미지 크기, 위치 등 지정.
 
-JavaScript (JS):
+# JavaScript (JS):
+
 웹 문서의 동작을 정의.
 
 etc.
 문서, 이미지, 동영상, 폰트 등
 
-웹 클라이언트(Client) 와 웹 서버(Server) 의 통신
+# 웹 클라이언트(Client) 와 웹 서버(Server) 의 통신
 
 1. (Client) 이용자가 브라우저를 이용하여 Server에 접속.
 

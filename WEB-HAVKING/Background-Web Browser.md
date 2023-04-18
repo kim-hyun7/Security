@@ -1,8 +1,8 @@
-웹 브라우저:
+# 웹 브라우저
 
 HTML 문서와 그림, 멀티미디어 파일등 월드 와이드 웹을 기반으로 한 인터넷의 컨텐츠를 검색 및 열람하기 위한 응용 프로그램.
 
-웹 브라우저의 기본적인 동작:
+# 웹 브라우저의 기본적인 동작:
 
 1. 웹 브라우저의 주소창에 입력된 주소(dreamhack.io) 해석(URL 분석)
 
@@ -14,8 +14,7 @@ HTML 문서와 그림, 멀티미디어 파일등 월드 와이드 웹을 기반�
 
 5. 리소스 다운로드 및 웹 렌더링(HTML, CSS, Javascript)
 
-URL(Uniform Resource Locator):
-웹에 있는 리소스의 위치 표현
+# URL(Uniform Resource Locator): 웹에 있는 리소스의 위치 표현
 
 http:// example.com /path ?search=1 #fragment
 
@@ -29,11 +28,13 @@ http:// example.com /path ?search=1 #fragment
 
 #fragment Fragment: 웹 브라우저만 가지고 있는 데이터입니다. 메인 리소스 (페이지) 내에서 서브 리소스를 식별.
 
-Domain Name:
+# Domain Name:
+
 불규칙한 숫자로 이루어진 IP Address는 사람이 외우기 어려우므로,
 일반적으로는 도메인의 특성을 담은 이름을 정의하여 IP 대신 사용.
 
-웹 렌더링(Web Rendering):
+# 웹 렌더링(Web Rendering):
+
 서버로부터 받은 리소스를 이용자에게 시각화하는 행위.
 
 서버의 응답을 받은 웹 브라우저는 리소스의 타입을 확인, 적절한 방식으로 이용자에게 전달함.

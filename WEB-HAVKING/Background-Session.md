@@ -1,4 +1,4 @@
-세션(Session):
+# 세션(Session):
 
 웹 통신에서 Client 가 Cookie를 변조해 서버에 요청을 보낼 수 있기 때문에,
 Client가 인증 번호를 변조할 수 없게 하기위해 세션(Session)을 사용한다.

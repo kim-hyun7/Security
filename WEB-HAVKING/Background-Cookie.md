@@ -1,4 +1,4 @@
-Cookie!!!!
+# Cookie!!!!
 
 클라이언트의 IP 주소와 User-Agent는 매번 변경될 수 있는 고유하지 않은 정보일 뿐만 아니라,
 HTTP 프로토콜의 Connectionless와 Stateless 특징 때문에 웹 서버는 클라이언트를 기억할 수 없음.
@@ -13,7 +13,8 @@ Client → Server request(+ Cookie)
 
 Server는 Client의 request에 포함된 Cookie를 확인해 Client를 구분.
 
-HTTP 프로토콜 특징
+# HTTP 프로토콜 특징
+
 Connectionless: 하나의 요청을 받고 하나의 응답을 한 후 종료.
 새 요청이 있을 때 마다 항상 새로운 연결을 한다.
 Stateless: 통신이 끝난 후 상태 정보 저장불가.
