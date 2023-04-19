@@ -9,7 +9,7 @@ Connectionless,Stateless 특성을 갖는 HTTP에서 상태를 유지하기 위�
 
 Server 는 Client에게 쿠키(Cookie)를 발급.
 
-Client → Server request(+ Cookie)
+Client → Server request(+ Cookie).
 
 Server는 Client의 request에 포함된 Cookie를 확인해 Client를 구분.
 
