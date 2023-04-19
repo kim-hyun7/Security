@@ -14,9 +14,11 @@ HTML 문서와 그림, 멀티미디어 파일등 월드 와이드 웹을 기반�
 
 5. 리소스 다운로드 및 웹 렌더링(HTML, CSS, Javascript)
 
-# URL(Uniform Resource Locator): 웹에 있는 리소스의 위치 표현
+# URL(Uniform Resource Locator)
 
-http:// example.com /path ?search=1 #fragment
+웹에 있는 리소스의 위치 표현
+
+# http:// example.com /path ?search=1 #fragment
 
 (http://) Scheme: 웹 브라우저가 어떤 프로토콜을 사용할지 지정.
 
