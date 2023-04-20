@@ -30,6 +30,9 @@ CREATE TABLE Board(
 
 # DML (Data Manipulation Language)
 
+데이터를 **조작**하기 위한 언어.  
+실제 데이터베이스 내에 존재하는 데이터에 대해 조회/저장/수정/삭제 등의 행위를 수행한다.
+
 **테이블 데이터 생성**
 
 ```SQL
@@ -62,9 +65,6 @@ Board 테이블의 컬럼 값을 변경하는 쿼리문.
 UPDATE Board SET boardContent='DreamHack!'
   Where idx=1;
 ```
-
-데이터를 **조작**하기 위한 언어.  
-실제 데이터베이스 내에 존재하는 데이터에 대해 조회/저장/수정/삭제 등의 행위를 수행한다.
 
 # DCL (Data Control Language)
 
