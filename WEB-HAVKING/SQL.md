@@ -37,8 +37,7 @@ CREATE TABLE Board(
 
 ```SQL
 #Board 테이블에 데이터를 삽입하는 쿼리문.
-INSERT INTO
-  Board(boardTitle, boardContent, createdDate)
+INSERT INTO Board(boardTitle, boardContent, createdDate)
 Values(
   'Hello',
   'World !',
@@ -50,12 +49,9 @@ Values(
 
 ```SQL
 #Board 테이블의 데이터를 조회하는 쿼리문.
-SELECT
-  boardTitle, boardContent
-FROM
-  Board
-Where
-  idx=1;
+SELECT boardTitle, boardContent
+FROM Board
+Where idx=1;
 ```
 
 **테이블 데이터 변경**
@@ -63,7 +59,7 @@ Where
 ```SQL
 #Board 테이블의 컬럼 값을 변경하는 쿼리문.
 UPDATE Board SET boardContent='DreamHack!'
-  Where idx=1;
+Where idx=1;
 ```
 
 # DCL (Data Control Language)
