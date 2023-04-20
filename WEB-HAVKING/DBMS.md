@@ -21,7 +21,7 @@ DBMS는 다수의 사람이 동시에 데이터베이스에 접근할 수 있고
 
 # SQL
 
-**Structured Query Language(SQL)**는 RDBMS의 데이터를 정의하고 질의, 수정 등을 하기 위해 고안된 언이이다.
+**Structured Query Language(SQL)** 는 RDBMS의 데이터를 정의하고 질의, 수정 등을 하기 위해 고안된 언이이다.
 
 # DDL (Data Definition Language)
 
