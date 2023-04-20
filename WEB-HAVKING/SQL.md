@@ -35,9 +35,8 @@ CREATE TABLE Board(
 
 **테이블 데이터 생성**
 
-Board 테이블에 데이터를 삽입하는 쿼리문.
-
 ```SQL
+#Board 테이블에 데이터를 삽입하는 쿼리문.
 INSERT INTO
   Board(boardTitle, boardContent, createdDate)
 Values(
@@ -47,10 +46,10 @@ Values(
 );
 ```
 
-**테이블 데이터 조회**  
-Board 테이블의 데이터를 조회하는 쿼리문.
+**테이블 데이터 조회**
 
 ```SQL
+#Board 테이블의 데이터를 조회하는 쿼리문.
 SELECT
   boardTitle, boardContent
 FROM
@@ -59,10 +58,10 @@ Where
   idx=1;
 ```
 
-**테이블 데이터 변경**  
-Board 테이블의 컬럼 값을 변경하는 쿼리문.
+**테이블 데이터 변경**
 
 ```SQL
+#Board 테이블의 컬럼 값을 변경하는 쿼리문.
 UPDATE Board SET boardContent='DreamHack!'
   Where idx=1;
 ```
