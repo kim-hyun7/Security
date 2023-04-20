@@ -13,8 +13,12 @@ DBMS는 다수의 사람이 동시에 데이터베이스에 접근할 수 있고
 
 테이블 형식의 데이터를 조작할 수 있는 관계 연산자를 제공한다.
 
-**Structured Query Language(SQL)** 이라는 쿼리 언어를 사용하고, 쿼리를 통해 테이블 형식의 데이터를 조작한다.
+**Structured Query Language(SQL)** 이라는 쿼리 언어를 사용한다.
 
 # Non-Relational DBMS
 
 비관계형 데이터베이스는 테이블 형식이 아닌 키-값(Key-Value) 형태로 값을 저장한다.
+
+# SQL
+
+**Structured Query Language(SQL)**는 RDBMS의 데이터를 정의하고 질의, 수정 등을 하기 위해 고안된 언이이다.
