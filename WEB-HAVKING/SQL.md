@@ -10,7 +10,7 @@
 **데이터베이스 생성**  
 _School_ 이라는 데이터베이스를 생성하는 쿼리문
 
-```javascript
+```SQL
 CREATE DATABASE School
 ```
 
