@@ -35,8 +35,9 @@ CREATE TABLE Board(
 
 **테이블 데이터 생성**
 
+Board 테이블에 데이터를 삽입하는 쿼리문.
+
 ```SQL
-#Board 테이블에 데이터를 삽입하는 쿼리문.
 INSERT INTO
   Board(boardTitle, boardContent, createdDate)
 Values(
