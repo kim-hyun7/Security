@@ -21,7 +21,7 @@ CREATE DATABASE School
 USE Dreamhack;
 # Board 이름의 테이블 생성 (CREATE TABLE)
 CREATE TABLE Board(
-	idx INT AUTO_INCREMENT,
+    idx INT AUTO_INCREMENT,
 	boardTitle VARCHAR(100) NOT NULL,
 	boardContent VARCHAR(2000) NOT NULL,
 	PRIMARY KEY(idx)
