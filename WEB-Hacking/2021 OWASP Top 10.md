@@ -22,7 +22,7 @@
 
     오래된 소프트웨어, 라이브러리, 프레임워크 등을 사용하는 경우에 알려진 취약점이 있을 수 있다.
 
-## 7. Identification and Authentication Failures
+## 7. Identification and Authentication Failures(식별 및 인증 오류)
 
     사용자 식별과 인증이 부적절하게 처리되면, 보안 위협이 발생할 수 있다.
 
