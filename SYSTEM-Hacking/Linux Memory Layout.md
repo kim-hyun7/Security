@@ -19,7 +19,7 @@ ex: 리턴값 31337 → 기계코드 554889e5b8697a00005dc3 변환 후 코드 �
 - ### Rodata Segment (Read Only Data)
   쓰기가 불가능한 세그먼트로, 값이 변하면 안되는 데이터들이 위치한다.
 
-## BSS Segment (Block Started By Symbol Semgent)
+# BSS Segment (Block Started By Symbol Semgent)
 
     컴파일 시점에 값이 정해지지 않은 전역 변수
 
