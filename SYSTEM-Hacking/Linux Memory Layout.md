@@ -1,4 +1,4 @@
-## Code Segment (Text Segment)
+# Code Segment (Text Segment)
 
     실행 가능한 기계 코드가 위치하는 영역
 
@@ -10,7 +10,7 @@
 
 ex: 리턴값 31337 → 기계코드 554889e5b8697a00005dc3 변환 후 코드 세그먼트에 위치.
 
-## Data Segment
+# Data Segment
 
     파일 시점에 값이 정해진 전역 변수 및 전역 상수
 
@@ -34,7 +34,7 @@ int main() {
 }
 ```
 
-## Stack Segment
+# Stack Segment
 
     프로세스의 스택이 위치하는 영역. 함수의 인자나 지역 변수와 같은 임시 변수들이 실행중에 여기에 저장된다.
 
@@ -52,6 +52,6 @@ void func() {
 
 지역 변수 choice는 스택에 저장된다.
 
-## Heap Segment
+# Heap Segment
 
     실행중에 동적으로 할당될 수 있으며, 리눅스에서는 스택 세그먼트와 반대 방향으로 자란다.
