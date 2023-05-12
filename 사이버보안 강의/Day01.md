@@ -8,27 +8,29 @@
 
 ### 컴퓨터의 구성요소
 
-- CPU
+- CPU  
   인간의 뇌 같은 존재로,
   프로그램의 명령어를 처리하여 컴퓨터의 동작을 제어한다.
 
   - Architecture : 시스템의 설계방법 이나 설계 원리 또는 구축 된 시스템의 구조의 틀
 
-  - Intel / AMD  
-     PC or Laptop 탑재, 가장 보편적인 CPU 아키텍쳐
-  - ARM32 / ARM64  
-     주로 Smart Phone, IoT 장비 등에 탑재
-  - MIPS  
-     공유기나 소형 Computer에 탑재
+    - Intel / AMD  
+      PC or Laptop 탑재, 가장 보편적인 CPU 아키텍쳐
+    - ARM32 / ARM64  
+      주로 Smart Phone, IoT 장비 등에 탑재
+    - MIPS  
+      공유기나 소형 Computer에 탑재
 
-- RAM(주기억장치)
+- RAM(주기억장치)  
   프로그램 실행 시 컴퓨터 해석을 위해 기억하는 역할
 
 - Hard disk(보조기억 장치)  
    프로그램 저장 소스코드를 빌드/컴파일 했을 경우 생성된 실행 파일 및 파일 저장
 
-- power
-  - 전원 공급
+- power  
+   전원 공급
+
+등등...
 
 ## 취약점
 
